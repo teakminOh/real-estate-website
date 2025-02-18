@@ -11,7 +11,7 @@
 ✅ Detailný prehľad nehnuteľností s galériou obrázkov  
 ✅ Možnosť registrácie a prihlásenia cez Google/Firebase  
 ✅ Administrátorský panel na správu inzerátov  
-✅ Scraping nehnuteľností z externých stránok 
+✅ Scraping nehnuteľností z externých stránok <br>
 ✅ Pridávanie pozemkov do ❤️
 ---
 
