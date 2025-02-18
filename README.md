@@ -33,6 +33,26 @@
 
 ---
 
+## 🔮 Plány do budúcnosti
+
+V nasledujúcich verziách projektu plánujem rozšíriť funkcionalitu o:  
+
+- **Optimalizované vyhľadávanie a stránkovanie**  
+  - Zlepšená rýchlosť spracovania pri práci s veľkým objemom nehnuteľností.  
+
+- **Pokročilé filtre a zoradenie**  
+  - Možnosť filtrovať podľa ceny, veľkosti, typu nehnuteľnosti.  
+  - Zoradenie výsledkov podľa dátumu pridania, ceny a ďalších parametrov.  
+
+- **Interaktívne funkcie**  
+  - Možnosť naplánovania obhliadky s realitným agentom.  
+  - Zobrazenie nehnuteľností na interaktívnej mape.  
+
+- **Možnosť pridania vlastných ponúk**  
+  - Umožnenie používateľom predávať svoje nehnuteľnosti priamo cez platformu.  
+
+---
+
 ## 📷 Náhľad stránky  
 
 ![Untitledvideo-MadewithClipchamp-ezgif com-optimize](https://github.com/user-attachments/assets/9470a98f-a1b3-4640-8a66-c53100878873)
