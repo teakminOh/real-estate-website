@@ -1,75 +1,49 @@
-# Nuxt Minimal Starter
+# 🏡 RealEstateApp – Webová aplikácia pre nehnuteľnosti  
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+**RealEstateApp** je moderná webstránka na vyhľadávanie, predaj a prenájom nehnuteľností. Používa **Vue 3 + Nuxt 3** na frontend a **Node.js + Express + MongoDB** na backend, pričom podporuje aj **Firebase autentifikáciu** s možnosťou prihlásenia cez Google.  
 
-## Setup
+---
 
-Make sure to install dependencies:
+## ⚒️ Funkcie aplikácie  
 
-```bash
-# npm
+✅ Vyhľadávanie nehnuteľností podľa adresy  
+✅ Filtrovanie výsledkov a stránkovanie  
+✅ Detailný prehľad nehnuteľností s galériou obrázkov  
+✅ Možnosť registrácie a prihlásenia cez Google/Firebase  
+✅ Administrátorský panel na správu inzerátov  
+✅ Scraping nehnuteľností z externých stránok 
+✅ Pridávanie pozemkov do ❤️
+---
+
+## ⚙️ Technológie  
+
+### **Frontend (Vue 3 + Nuxt 3 + Tailwind CSS)**  
+- Vue 3 (Composition API)  
+- Nuxt 3 (SSR, SSG, Dynamické routovanie)  
+- Tailwind CSS (moderný dizajn)  
+- Vue Router (navigácia)  
+- VueFire (Firebase autentifikácia)  
+- PhotoSwipe (galéria obrázkov v detaile nehnuteľnosti)  
+
+### **Backend (Node.js + Express + MongoDB)**  
+- Express.js (REST API)  
+- MongoDB + Mongoose (dátová vrstva)  
+- Firebase Auth (overenie používateľov)  
+- Scraping pomocou Cheerio.js  
+
+---
+
+## 📷 Náhľad stránky  
+
+![Untitledvideo-MadewithClipchamp-ezgif com-optimize](https://github.com/user-attachments/assets/9470a98f-a1b3-4640-8a66-c53100878873)
+
+---
+
+## 🚀 Inštalácia  
+
+```sh
+git clone https://github.com/teakminOh/real-estate-website.git
+cd real-estate-website
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
