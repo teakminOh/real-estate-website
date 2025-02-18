@@ -1,4 +1,4 @@
-# 🏡 RealEstateApp – Webová aplikácia pre nehnuteľnosti  
+# 🏡 RealEstateApp – Webostránka pre nehnuteľnosti  
 
 **RealEstateApp** je moderná webstránka na vyhľadávanie, predaj a prenájom nehnuteľností. Používa **Vue 3 + Nuxt 3** na frontend a **Node.js + Express + MongoDB** na backend, pričom podporuje aj **Firebase autentifikáciu** s možnosťou prihlásenia cez Google.  
 
