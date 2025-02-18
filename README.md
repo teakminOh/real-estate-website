@@ -8,7 +8,7 @@
 
 ✅ Vyhľadávanie nehnuteľností podľa adresy  
 ✅ Filtrovanie výsledkov a stránkovanie  
-✅ Detailný prehľad nehnuteľností s galériou obrázkov
+✅ Detailný prehľad nehnuteľností s galériou obrázkov <br>
 ✅ Možnosť registrácie a prihlásenia cez Google/Firebase 🔥 <br>
 ✅ Administrátorský panel na správu inzerátov  
 ✅ Scraping nehnuteľností z externých stránok <br>
