@@ -55,8 +55,8 @@ In upcoming versions, I plan to expand functionality with:
 ---
 
 ## 📷 Website Preview  
-
-![Untitledvideo-MadewithClipchamp-ezgif com-optimize](https://github.com/user-attachments/assets/9470a98f-a1b3-4640-8a66-c53100878873)  
+ 
+![Untitledvideo-MadewithClipchamp-ezgif com-optimize](https://github.com/user-attachments/assets/79c7a9e9-94df-4c37-936e-60d9818ae9e7)
 
 ---
 
